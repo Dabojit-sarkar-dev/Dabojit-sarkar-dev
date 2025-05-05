@@ -1,56 +1,24 @@
-HELLO! MYSELF DABOJIT SARKAR
-- Computer Science and Engineering Student
+# 💫 About Me:
+HELLO! MYSELF DABOJIT SARKAR<br>- Computer Science and Engineering Student<br><br>Welcome to my GitHub profile! I'm a second-year Computer Science and Engineering (CSE) student with a passion for technology, problem-solving, and software development. This repository showcases my learning journey, personal projects, and contributions to open-source software.<br><br>🔭 Current Focus<br>Enhancing my skills in Data Structures and Algorithms to solve complex problems efficiently.<br><br>Exploring Frontend Development with a focus on React, HTML/CSS, and JavaScript.<br><br>Gaining proficiency in Java and improving my understanding of Object-Oriented Programming (OOP).<br><br>Diving into Artificial Intelligence (AI) and Machine Learning.<br><br>Learning more about Large Language Models (LLMs) and their applications.<br><br>🌱 Skills & Technologies<br>Languages: Java, Python, JavaScript, HTML/CSS<br><br>Frontend Development: React, Bootstrap<br><br>Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA<br><br>Databases: MySQL, MongoDB<br><br>Concepts: Data Structures, Algorithms, Object-Oriented Programming (OOP), Web Development<br><br>Frameworks: React.js, Node.js (Beginner)<br><br>AI/ML: Basic concepts in Machine Learning, TensorFlow<br><br>📚 Learning Goals<br>Mastering advanced Data Structures and Algorithms.<br><br>Improving problem-solving skills on platforms like LeetCode, CodeForces, and HackerRank.<br><br>Developing full-stack web applications.<br><br>Gaining deeper insights into AI and Machine Learning technologies.<br><br>Preparing for a career in Software Development, with a special interest in FAANG companies.<br><br>💻 Projects<br>You can explore my personal projects and contributions to various open-source repositories in the following areas:<br><br>Web Development Projects: Frontend & Full-stack applications.<br><br>Data Structures & Algorithms: Problem-solving solutions and code snippets.<br><br>AI/ML Projects: Basic AI and ML models, data analysis, and machine learning algorithms.<br><br>Tools & Utilities: Small programs and tools to automate tasks or make processes more efficient.<br><br>📫 How to Reach Me<br>Email: debsarkards2002@gmail.com<br>Instagram: @shirshobutwhocares<br>
 
-Welcome to my GitHub profile! I'm a second-year Computer Science and Engineering (CSE) student with a passion for technology, problem-solving, and software development. This repository showcases my learning journey, personal projects, and contributions to open-source software.
 
-🔭 Current Focus
-Enhancing my skills in Data Structures and Algorithms to solve complex problems efficiently.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dabojit-sarkar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dabojit-sarkar-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabojit-sarkar-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Exploring Frontend Development with a focus on React, HTML/CSS, and JavaScript.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dabojit-sarkar-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Gaining proficiency in Java and improving my understanding of Object-Oriented Programming (OOP).
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Diving into Artificial Intelligence (AI) and Machine Learning.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dabojit-sarkar-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Learning more about Large Language Models (LLMs) and their applications.
+---
+[![](https://visitcount.itsvg.in/api?id=Dabojit-sarkar-dev&icon=0&color=12)](https://visitcount.itsvg.in)
 
-🌱 Skills & Technologies
-Languages: Java, Python, JavaScript, HTML/CSS
-
-Frontend Development: React, Bootstrap
-
-Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA
-
-Databases: MySQL, MongoDB
-
-Concepts: Data Structures, Algorithms, Object-Oriented Programming (OOP), Web Development
-
-Frameworks: React.js, Node.js (Beginner)
-
-AI/ML: Basic concepts in Machine Learning, TensorFlow
-
-📚 Learning Goals
-Mastering advanced Data Structures and Algorithms.
-
-Improving problem-solving skills on platforms like LeetCode, CodeForces, and HackerRank.
-
-Developing full-stack web applications.
-
-Gaining deeper insights into AI and Machine Learning technologies.
-
-Preparing for a career in Software Development, with a special interest in FAANG companies.
-
-💻 Projects
-You can explore my personal projects and contributions to various open-source repositories in the following areas:
-
-Web Development Projects: Frontend & Full-stack applications.
-
-Data Structures & Algorithms: Problem-solving solutions and code snippets.
-
-AI/ML Projects: Basic AI and ML models, data analysis, and machine learning algorithms.
-
-Tools & Utilities: Small programs and tools to automate tasks or make processes more efficient.
-
-📫 How to Reach Me
-Email: debsarkards2002@gmail.com
-Instagram: @shirshobutwhocares
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
