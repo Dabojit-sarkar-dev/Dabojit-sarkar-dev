@@ -94,11 +94,12 @@ const engineer = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dabojit-sarkar-dev&layout=compact&theme=tokyonight&hide_border=true&card_width=520&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dabojit-sarkar-dev&layout=compact&theme=tokyonight&hide_border=true&card_width=520&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dabojit-sarkar-dev&theme=tokyo-night&hide_border=true&area=true" width="85%" alt="Activity Trend Graph" />
+  <p><b>Contribution Activity Timeline</b></p>
+  <img src="https://ghchart.rshah.org/8EB69B/Dabojit-sarkar-dev" alt="Activity Trend Graph" width="100%" />
 
 </div>
 
