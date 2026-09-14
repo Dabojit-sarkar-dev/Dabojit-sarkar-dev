@@ -90,16 +90,25 @@ const engineer = {
 
 ---
 
-### Code Distribution and Activity Trend
+### Code Distribution and Spider-Verse Activity Timeline
 
 <div align="center">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dabojit-sarkar-dev&layout=compact&theme=tokyonight&hide_border=true&card_width=520&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dabojit-sarkar-dev&layout=compact&title_color=E23636&text_color=DAF1DE&icon_color=0055FF&bg_color=0B132B&hide_border=true&card_width=520&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
-  <p><b>Contribution Activity Timeline</b></p>
-  <img src="https://ghchart.rshah.org/8EB69B/Dabojit-sarkar-dev" alt="Activity Trend Graph" width="100%" />
+  <!-- Upside-down Spider-Man Coding Animation -->
+  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" width="150" alt="Spider-Man Coding" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/With%20Great%20Power-Comes%20Great%20Responsibility-E23636?style=for-the-badge&logo=marvel&logoColor=white&labelColor=001F3F" alt="Spider-Man Motto" />
+
+  <br/><br/>
+
+  <p><b>Spider-Verse Contribution Grid</b></p>
+  <img src="https://ghchart.rshah.org/E23636/Dabojit-sarkar-dev" alt="Spider-Man Contribution Timeline" width="100%" />
 
 </div>
 
@@ -107,10 +116,10 @@ const engineer = {
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Dabojit-sarkar-dev&color=8EB69B&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dabojit-sarkar-dev&color=E23636&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051F20,0B2B26,163832,235347&height=80&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E23636,001F3F&height=80&section=footer" width="100%" alt="Spider-Verse Footer Wave" />
 
 </div>
